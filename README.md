@@ -7,3 +7,5 @@
 3> Array Methods => https://www.w3schools.com/js/js_array_methods.asp
 
 4> HTML-Attributes => https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
+
+4> JavaScript Events => https://www.javascripttutorial.net/javascript-dom/javascript-events/
