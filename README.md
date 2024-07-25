@@ -11,3 +11,5 @@
 4> JavaScript Events => https://www.javascripttutorial.net/javascript-dom/javascript-events/
 
 5> Bubbling and Capture => https://www.youtube.com/watch?v=F1anRyL37lE
+
+6> DOM Important => https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events#assignment
