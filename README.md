@@ -9,3 +9,5 @@
 4> HTML-Attributes => https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
 
 4> JavaScript Events => https://www.javascripttutorial.net/javascript-dom/javascript-events/
+
+5> Bubbling and Capture => https://www.youtube.com/watch?v=F1anRyL37lE
